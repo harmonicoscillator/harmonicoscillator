@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![CMScollaboration_2011](https://user-images.githubusercontent.com/4851503/145449008-1f232b10-b91e-4e80-a545-cb6d96662f92.jpeg)
+
+
 <!--
 **harmonicoscillator/harmonicoscillator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
